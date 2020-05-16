@@ -1,4 +1,4 @@
-# NYC_Kaggle_Challenge
+# NYC-taxi-trip-duration
 Making predictions of New York City Taxis' trip duration using Machine Learning (Challenge Provided by Kaggle). <br/>
 
 # Usage : 
